@@ -1,0 +1,2 @@
+Unit ID,ATM_Terminal_Id,IP Address,District,Username,Password,ATM_TYPE,BRANCH_NAME,,ATM_Location,CBS Account,Port,Site,Status
+59,ADMN0168,192.*.*.*,Adama,***,****,NCR,Adea Branch NCR,,Adea Branch ,10002****0168,****,Onsite,New

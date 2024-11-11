@@ -1,0 +1,16 @@
+[
+    {
+        "ATM_Terminal_Id": "ADMN0168",
+        "ATM_IP": "192.*.*.*",
+        "ATM_Location": "Adea Branch ",
+        "Username": "secret-username",
+        "Password": "secret-pass",
+        "BRANCH_NAME": "Adea Branch NCR",
+        "ATM_TYPE": "NCR",
+        "District": "Adama",
+        "CBS_Account": 1111111111111,
+        "Port": 6666,
+        "Site": "Onsite",
+        "Status": "New"
+    }
+]
